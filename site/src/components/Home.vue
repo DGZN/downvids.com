@@ -30,7 +30,7 @@
             <a href="https://qdownloader.net/youtube-video-downloader">
               <div class="site col-md-2 col-sm-3 col-xs-4">
               <div class="preview">
-                <img src="../assets/youtube.png">
+                <img src="/static/img/sites/youtube.png">
               </div>
               <span>YouTube</span>
             </div>
@@ -38,7 +38,7 @@
             <a href="https://qdownloader.net/facebook-video-downloader">
               <div class="site col-md-2 col-sm-3 col-xs-4">
               <div class="preview">
-                <img src="../assets/facebook.png">
+                <img src="/static/img/sites/facebook.png">
               </div>
               <span>Facebook</span>
             </div>
@@ -46,7 +46,7 @@
             <a href="https://qdownloader.net/instagram-video-downloader-photo-downloader">
               <div class="site col-md-2 col-sm-3 col-xs-4">
               <div class="preview">
-                <img src="../assets/instagram.png">
+                <img src="/static/img/sites/instagram.png">
               </div>
               <span>Instagram</span>
             </div>
@@ -54,7 +54,7 @@
             <a href="https://qdownloader.net/twitter-video-downloader">
               <div class="site col-md-2 col-sm-3 col-xs-4">
               <div class="preview">
-                <img src="../assets/twitter.png">
+                <img src="/static/img/sites/twitter.png">
               </div>
               <span>Twitter</span>
             </div>
@@ -63,7 +63,7 @@
               <a href="https://qdownloader.net/vimeo-video-downloader">
               <div class="site col-md-2 col-sm-3 col-xs-4">
               <div class="preview">
-                <img src="../assets/vimeo.png">
+                <img src="/static/img/sites/vimeo.png">
               </div>
               <span>Vimeo</span>
             </div>
@@ -71,7 +71,7 @@
               <a href="https://qdownloader.net/liveleak-video-downloader">
               <div class="site col-md-2 col-sm-3 col-xs-4">
               <div class="preview">
-                <img src="../assets/liveleak.png">
+                <img src="/static/img/sites/liveleak.png">
               </div>
               <span>LiveLeak</span>
             </div>
